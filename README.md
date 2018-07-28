@@ -11,3 +11,12 @@
 ### 2018年07月27日
 
 1. Lambda表达式
+
+### 2018年07月28日
+1. Lambda表达式
+    1. 学习了Predicate接口
+        1. 一个断言方法, boolean test(T t);
+    2. 学习了Consumer接口
+        2. 执行一个没有返回值得操作, void accept(T t);
+    3. 学习了Function接口
+        3. 执行一个操作, 返回一个结果, R apply(T t);
